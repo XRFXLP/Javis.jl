@@ -1,4 +1,4 @@
-# **Tutorial 1:** Making Your First Javis Animation!
+# **Tutorial 1:** Making Your First Ja
 
 ## Introduction
 
